@@ -1,0 +1,9 @@
+const APITest = 'https://jsonplaceholder.typicode.com/posts'
+const APIHeader = "http://127.0.0.1:8008"
+const APILogin = APIHeader + "/Login"
+const APIEnt = APIHeader + "/Entinfo"
+const APIPsn = APIHeader + "/Psninfo"
+const APIEntBin = APIHeader + "/EntBin"
+const APIAsset = "https://aizhiyeasset.oss-cn-hangzhou.aliyuncs.com"
+const APIA = APIHeader + "/ARole"
+const APIB = APIHeader + "/BRole"
